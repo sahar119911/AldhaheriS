@@ -24,9 +24,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: a3ammar/jekyll-now
+  github:
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/sahar-aldhaheri-354627114/
   pinterest:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
   twitter: jekyllrb
