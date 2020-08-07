@@ -1,6 +1,4 @@
----
-published: true
----
+
 ---  
 layout: post
 title: Privacy by Design
