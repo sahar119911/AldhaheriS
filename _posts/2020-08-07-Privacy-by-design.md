@@ -3,8 +3,8 @@ published: true
 ---
 ---  
 layout: post
-title: الخصوصية بالتصميم
----  ![GDPR-Privacy-by-Design-36aihl0qy80va9hctptybk.png]({{site.baseurl}}/_posts/GDPR-Privacy-by-Design-36aihl0qy80va9hctptybk.png)
+title: Privacy by Design
+---  
 
 
 كثيرًا ما يقال: "يُمكنك صنع الكعك دون سكر ولن يلاحظ أحد ذلك حتى يتذوقها، عندها ستكون ملاحظة متأخرة". كذلك فيما يتعلق بتطوير المنتجات التقنية دون الاهتمام بالخصوصية وحماية المستخدم حيث تندرج ضمن المتطلبات غير الوظيفية - Non Functional requirements-. حيث تتضح أهميتها خلال حدوث مشكلة وعندها يكون الوقت متأخرًا لتدراك الوضع.
