@@ -13,12 +13,8 @@ title: الخصوصية تبعًا للتصميمPrivacy by Design (PbD)
 <center>
 <img src="https://github.com/sahar119911/Myblog.github.io/blob/gh-pages/images/CSI_PrivacyByDesign_Diagram-10.png" alt="المبادئ الأساسية للخصوصية تبعًا للتصميم" width="400" align="middle"/>  
 
-
-صورة 2: فرط التخصيص
 </center>  
 
-
-![The Foundational Principles of Privacy by Design](https://github.com/sahar119911/Myblog.github.io/blob/gh-pages/images/CSI_PrivacyByDesign_Diagram-10.png)
 
 
 ## 1. الاستباقية وليس التفاعلية (Be proactive, not reactive)  
