@@ -1,6 +1,6 @@
 ---  
 layout: post
-title: الخصوصية تبعًا للتصميمPrivacy by Design (PbD) 
+title: الخصوصية تبعًا للتصميم Privacy by Design (PbD) 
 ---  
 
 يقال: "يمكنك صنع الكيك دون سكر ولن يلاحظ أحد ذلك حتى يتذوقها، عندها ستكون ملاحظة متأخرة". الأمر سيان فيما يتعلق بتطوير المنتجات التقنية دون الاهتمام بخصوصية البيانات وحماية المستخدم. حيث تتضح أهميتها عند حدوث مشكلة لكن تدارك الوضع يكون متأخرًا غالبًا. على الرغم من أهمية الخصوصية إلا أنه كثيرًا ما يتم تجاهلها أو النظر لها من زاوية ضيقة مع الاهمال لبقية الأبعاد . في كتابه [Strategic Privacy by Design](https://books.google.com.sa/books/about/Strategic_Privacy_by_Design.html?id=TPH5uwEACAAJ&redir_esc=y) جايسون كرونك يتحدث أن أغلب  الشركات يولون جل اهتمامهم لتطوير منتجاتهم أو خدماتهم الأساسية ، بينما لا يزالون في المراحل الأولية وقد يفتقرون لأساسيات حماية خصوصية وبيانات المستخدمين.
@@ -11,7 +11,7 @@ title: الخصوصية تبعًا للتصميمPrivacy by Design (PbD)
 يشير هذا المفهوم إلى 7 مبادئ أساسية:
 
 <center>
-<img src="https://github.com/sahar119911/Myblog.github.io/blob/gh-pages/images/CSI_PrivacyByDesign_Diagram-10.png" alt="المبادئ الأساسية للخصوصية تبعًا للتصميم" width="400" align="middle"/>  
+<img src="https://github.com/sahar119911/Myblog.github.io/images/CSI_PrivacyByDesign_Diagram-10.png" alt="المبادئ الأساسية للخصوصية تبعًا للتصميم" width="400" align="middle"/>  
 
 </center>  
 
