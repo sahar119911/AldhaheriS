@@ -10,7 +10,7 @@ title: Privacy by Design (PbD)
 
 في المقابل قامت [آن كافوكيان](https://en.wikipedia.org/wiki/Ann_Cavoukian) –المدير التنفيذي لمعهد الخصوصية والبيانات الضخمة في جامعة رايرسون- بصياغة مصطلح الخصوصية تبعًا للتصميم (**Privacy by Design**) عام 1990, والذي تم أدراجه في المادة 25 من القانون العام لحماية البيانات [(GDPR)](https://gdpr-info.eu/) . وفقًا لكافوكيان ، يشير هذا المفهوم لعملية دمج إجراءات حماية الخصوصية في الأنظمة من أجل توفير حماية للخصوصية وأمان خلال دورة حياة البيانات.
 
-![](https://github.com/sahar119911/Myblog/blob/gh-pages/images/CSI_PrivacyByDesign_Diagram-10.png)
+![](https://github.com/sahar119911/Myblog.github.io/blob/gh-pages/images/CSI_PrivacyByDesign_Diagram-10.png)
 
 
 يشير هذا المفهوم إلى 7 مبادئ أساسية:
