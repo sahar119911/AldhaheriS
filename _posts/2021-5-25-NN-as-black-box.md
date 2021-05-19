@@ -66,7 +66,7 @@ icon: 👓
 1. Turing-NLG: A 17-billion-parameter language model by Microsoft. Microsoft Research. (2020, February 13). [https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/.](https://www.microsoft.com/en-us/research/blog/turing-nlg-a-17-billion-parameter-language-model-by-microsoft/) 
 2. Zhang, M. (2015, July 1). Google Photos Tags Two African-Americans As Gorillas Through Facial Recognition Software. Forbes.[https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/?sh=1893955b713d](https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/?sh=1893955b713d). 
 3. Team, I. (2018, October 16). Forbes Insights: On Your Marks: Business Leaders Prepare For Arms Race In Artificial Intelligence. Forbes.[https://www.forbes.com/sites/insights-intelai/2018/07/17/on-your-marks-business-leaders-prepare-for-arms-race-in-artificial-intelligence/?sh=1224b4181946](https://www.forbes.com/sites/insights-intelai/2018/07/17/on-your-marks-business-leaders-prepare-for-arms-race-in-artificial-intelligence/?sh=1224b4181946). 
-4.Detecting Tanks. (n.d.). [https://www.jefftk.com/p/detecting-tanks](https://www.jefftk.com/p/detecting-tanks). 
+4. Detecting Tanks. (n.d.). [https://www.jefftk.com/p/detecting-tanks](https://www.jefftk.com/p/detecting-tanks). 
 5.
 
 
