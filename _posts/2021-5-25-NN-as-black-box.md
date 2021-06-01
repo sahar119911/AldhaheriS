@@ -9,7 +9,7 @@ icon: 👓
 ---
 
 <center>
-<img src="https://github.com/sahar119911/AldhaheriS/gh-pages/images/25-5-2021/black_box_1600px_web-1024x512.jpg" alt="" width="700" align="middle"/>  
+<img src="https://github.com/sahar119911/AldhaheriS/images/25-5-2021/black_box_1600px_web-1024x512.jpg" alt="" width="700" align="middle"/>  
  صورة 1: الخوارزميات المغلقة
 </center>  
 
