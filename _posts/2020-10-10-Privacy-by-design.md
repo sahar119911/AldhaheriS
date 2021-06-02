@@ -11,7 +11,7 @@ title: الخصوصية تبعًا للتصميم Privacy by Design (PbD)
 يشير هذا المفهوم إلى 7 مبادئ أساسية:
 
 <center>
-<img src="https://github.com/sahar119911/AldhaheriS/blob/gh-pages/images/8-8-2020/CSI_PrivacyByDesign_Diagram-10.png" alt="" width="400" align="middle"/>  
+<img src="https://github.com/sahar119911/AldhaheriS/blob/gh-pages/images/8-8-2020/CSI_PrivacyByDesign_Diagram-10.png?raw=true" alt="" width="400" align="middle"/>  
  صورة 1: المبادئ الأساسية للخصوصية تبعًا للتصميم
 
 </center>  
