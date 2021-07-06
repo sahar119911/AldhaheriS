@@ -1,6 +1,6 @@
 ---
 layout: post
-title: الخوارزميات 
+title:  الخوارزميات المغلقة (Black Boxes) 
 icon: 👓
 ---
 
@@ -68,5 +68,12 @@ icon: 👓
 2. Zhang, M. (2015, July 1). Google Photos Tags Two African-Americans As Gorillas Through Facial Recognition Software. Forbes.[https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/?sh=1893955b713d](https://www.forbes.com/sites/mzhang/2015/07/01/google-photos-tags-two-african-americans-as-gorillas-through-facial-recognition-software/?sh=1893955b713d). 
 3. Team, I. (2018, October 16). Forbes Insights: On Your Marks: Business Leaders Prepare For Arms Race In Artificial Intelligence. Forbes.[https://www.forbes.com/sites/insights-intelai/2018/07/17/on-your-marks-business-leaders-prepare-for-arms-race-in-artificial-intelligence/?sh=1224b4181946](https://www.forbes.com/sites/insights-intelai/2018/07/17/on-your-marks-business-leaders-prepare-for-arms-race-in-artificial-intelligence/?sh=1224b4181946). 
 4. Detecting Tanks. (n.d.). [https://www.jefftk.com/p/detecting-tanks](https://www.jefftk.com/p/detecting-tanks).
+5. Rudin, C. (2019). Stop explaining black box machine learning models for high stakes decisions and use interpretable models instead. Nature Machine Intelligence, 1(5), 206-215.
+6. Wachter S, Mittelstadt B, Russell C. Counterfactual Explanations without Opening the Black Box: Automated Decisions and the GDPR. Harvard Journal of Law & Technology 2018. 
+7. Zeng J, Ustun B, Rudin C. Interpretable classification models for recidivism prediction. Journal of the Royal Statistical Society: Series A (Statistics in Society). 2017;180(3):689–722.
+8. Rudin C, Ustun B. Optimized Scoring Systems: Toward Trust in Machine Learning for Healthcare and Criminal Justice. Interfaces. 2018;48:399–486. Special Issue: 2017 Daniel H. Wagner Prize for Excellence in Operations Research Practice September-October 2018.
+9. Wexler R. When a Computer Program Keeps You in Jail: How Computers are Harming Criminal Justice. New York Times. 2017 June 13
+
+
 
 
