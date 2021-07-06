@@ -73,6 +73,8 @@ icon: 👓
 7. Zeng J, Ustun B, Rudin C. Interpretable classification models for recidivism prediction. Journal of the Royal Statistical Society: Series A (Statistics in Society). 2017;180(3):689–722.
 8. Rudin C, Ustun B. Optimized Scoring Systems: Toward Trust in Machine Learning for Healthcare and Criminal Justice. Interfaces. 2018;48:399–486. Special Issue: 2017 Daniel H. Wagner Prize for Excellence in Operations Research Practice September-October 2018.
 9. Wexler R. When a Computer Program Keeps You in Jail: How Computers are Harming Criminal Justice. New York Times. 2017 June 13
+10. Durán, J. M., & Jongsma, K. R. (2021). Who is afraid of black box algorithms? on the epistemological and ethical basis of trust in medical AI. Journal of Medical Ethics, 47(5), 329-335.
+
 
 
 
