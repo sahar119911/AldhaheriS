@@ -57,4 +57,15 @@ title: الخصوصية تبعًا للتصميم Privacy by Design (PbD)
 عادة ما تكون أفضل نتائج الخصوصية تبعًا للتصميم؛ هي تلك المصممة بوعي حول اهتمامات واحتياجات المستخدم وجعل اعدادات الخصوصية سهلة الاستخدام وتتمحور حول المستخدم بالدرجة الأولى. يمتد احترام خصوصية المستخدم ليشمل الواجهات سهلة الاستخدام ( user-friendly) بحيث يمكن الاعتماد على قراراته المتعلقة بالخصوصية.
 
 
+## المراجع
+1. Turrecha, Lourdes M. "Strategic Privacy by Design, with Jason Cronk." (2020).
+2. Wikimedia Foundation. (2021, May 3). Ann Cavoukian. Wikipedia. https://en.wikipedia.org/wiki/Ann_Cavoukian. 
+3. Official legal text. General Data Protection Regulation (GDPR). (2019, September 2). https://gdpr-info.eu/. 
+4. Spiekermann, Sarah. "The challenges of privacy by design." Communications of the ACM 55.7 (2012): 38-40.
+5. Cavoukian, Ann. "Privacy by design." (2009).
+6. Schaar, Peter. "Privacy by design." Identity in the Information Society 3.2 (2010): 267-274.
+7. Cavoukian, Ann. "Privacy by design: The 7 foundational principles." Information and privacy commissioner of Ontario, Canada 5 (2009): 12.
+
+
+
 
